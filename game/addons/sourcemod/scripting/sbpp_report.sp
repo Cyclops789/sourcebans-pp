@@ -8,7 +8,7 @@
 
 #pragma newdecls required
 
-#define Chat_Prefix "[SourceBans++] "
+#define Chat_Prefix "\x04[SourceBans++]\x01 "
 
 enum
 {
